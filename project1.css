@@ -1,0 +1,50 @@
+.quizzmanage{
+    background-color: rgb(255, 248, 205);
+    border-style: double;
+  border-radius: 5px;
+  border-color: brown;
+}
+#head1{
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Lora', serif;
+
+}
+#total,#ques{
+       padding-left: 10px;
+    font-family: 'Comfortaa', cursive;
+}
+#ques{
+    padding-left: 40px;
+   border: 10px;
+}
+#ch1,#ch2,#ch3{
+    
+    font-family: 'Comfortaa', cursive;
+    padding-left: 45px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    border-left-width: 5px;
+    cursor: pointer;
+    border: 1px solid gray ;
+}
+#but1{
+    padding-left: 75%;
+   border-radius: 12px;
+   cursor: grab;
+}
+#but2{
+   padding-left:20% ;
+   border-radius: 12px;
+   cursor: grab;
+   margin-top: -50px;
+}
+#but3{
+    padding-left:20% ;
+    border-radius: 12px;
+    cursor: grab;
+    text-align: center;
+ }
+#conQuiz{
+    padding-left: 75%;
+}
